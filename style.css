@@ -1,11 +1,10 @@
-.div1{
-    width: 200px;
+.div1{   width: 200px;
     height: 200px;
     background-color: black;
     position: absolute;
     top: 150px;
-    left: 150px;
-}
+    left: 150px;}
+
 
 .div2{
     width: 200px;
@@ -19,6 +18,8 @@
     width: 200px;
     height: 200px;
     background-color: blue;
-}
+} */
 
 /* position:absolute kutucuklara özgürlük alanı kazandırır istediği yere gitmesini sağlar ve diğer divler etkilenmeden tekil olarak hareket etmesini sağlar */
+/* 
+position:relative: relative verilen alana başka biri geçemez. yerini kimse dolduramaz.  */
